@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+<node pkg="service_robot" type="node" name="wall_follower" output="screen" />
+
+
+
+</launch>
