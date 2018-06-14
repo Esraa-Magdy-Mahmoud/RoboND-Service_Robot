@@ -1,0 +1,7 @@
+
+
+<launch>
+
+<rosparam command="load" file="$(find pick_objects)/params/params.yaml" />
+
+</launch>
